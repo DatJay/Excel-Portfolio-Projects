@@ -3,7 +3,7 @@
 ### Below is the list of projects and a brief description about them ;
 ### 1. Excel Project Auto Sales Data.
 #### This project analyzes sales data of automobiles across various product lines to uncover key trends in customer purchasing behavior accros the globe. Analysis revealed the top-performing product lines in terms of revenue and units sold. It also highlighted average order sizes and their impact on overall deal sizes. Customer segmentation identified high-value buyers and their purchase patterns.
-#### Country-wise comparisons showed which regions drive the most sales. A strong correlation between quantity ordered and deal size was observed. These insights help in identifying growth opportunities. The analysis supports targeted sales strategies. Overall, the project provides actionable data-driven recommendations.
+#### Country-wise comparisons showed which regions drive the most sales. A strong correlation between quantity ordered and deal size was observed. These insights help in identifying growth opportunities. The analysis supports targeted sales strategies.
 #### The first step was to prepare the raw data by cleaning and standardizing it to make it more easier for analyses. I proceeded with further analyses in MySQL server and the file is located in my other repository titled MySQL projects. 
 
 
